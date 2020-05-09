@@ -1,3 +1,3 @@
-Vector Autoregression Using Python
+File Named 'VAR-Forecast10.ipynb'.  This is Vector Autoregression Using Python (in Jupyter Notebook). This is the first attempt at a Derivatives prediction model using ML, specifically Vector Autoregression
 
-This is the first attempt at a Derivatives prediction model using ML, specifically Vector Autoregression
+File named 'MultipleMLMethods.ipynb'  This is a Python file (in Jupyter Notebook) that takes a dataset and runs it through multiple Machine Learning models: 1) Linear Regression, 2) Polynomial Regression, 3) Decision Tree Regression, 4) Singular Value Decomposition, 5) PCA, 6) Batch Gradient Descent, 7) Stochastic Gradient Descent, 8) Mini-Batch Gradient Descent, 9) Regularized Models (Ridge, Lasso, ElasticNet), 10) Support Vector Machine Regression (both Linear and Non-Linear), 11) Random Forest Regression, 12) Voting Regression, 13) 14) Bagging, 15) Pasting, 16) AdaBoost, and 17) Gradient Boosting.
